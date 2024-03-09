@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.13;
+pragma solidity 0.8.18;
 
 /// @dev EasyMathV2 is optimised version of EasyMath, many places was `unchecked` for lower gas cost.
 /// There is also fixed version of `calculateUtilization()` method.

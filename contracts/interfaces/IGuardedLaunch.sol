@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.13;
+pragma solidity 0.8.18;
 
 interface IGuardedLaunch {
     /// @dev Stores info about maximum allowed liquidity in a Silo. This limit applies to deposit only.

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.13;
+pragma solidity 0.8.18;
 
 /// @title Manageable
 /// @notice Implements simple manager role that can be changed by a manger or external owner role

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.13;
+pragma solidity 0.8.18;
 import "./_interfaces/IERC20.sol";
 
 contract DummyERC20Asset is IERC20 {

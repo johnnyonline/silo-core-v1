@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: BUSL-1.1
-pragma solidity 0.8.13;
+pragma solidity 0.8.18;
 
 /// @dev A simplified version of the Curve Pool interface with methods
 /// that are required for the SETH Magician.

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.13;
+pragma solidity 0.8.18;
 
 interface ICurveMetaPoolLike {
     // solhint-disable-next-line func-name-mixedcase
